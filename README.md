@@ -2,7 +2,7 @@
 
 Free online tool suite — 72 browser-based tools for PDF, video, image, resume, coding, and more.
 
-[Use Tools](**https://forgedaddy.com**)
+[Use Tools](https://forgedaddy.com)
 
 All tools run 100% in your browser. 
 
